@@ -1,12 +1,12 @@
 # German A1 Speaking Buddy
 
-**AI-powered German speaking assistant for beginners**, designed to help international learners build confidence and fluency for the Goethe/TELC A1 exam — and beyond. More than just a study tool, this project is a stepping stone towards an **adaptive AI language companion** that grows with the learner.
+**AI-powered German speaking assistant for beginners**, designed to help international learners build confidence and fluency for the Goethe/TELC A1 exam, and beyond. More than just a study tool, this project is a stepping stone towards an **adaptive AI language companion** that grows with the learner.
 
 ---
 
 ## Project Overview
 
-Learning to speak a new language is hard, especially for beginners. Speaking requires practice, a partner, and instant feedback — which is often hard to find.  
+Learning to speak a new language is hard, especially for beginners. Speaking requires practice, a partner, and instant feedback, which is often hard to find.  
 **German A1 Speaking Buddy** solves this by simulating the A1 exam’s three speaking parts using:
 
 - Interactive **speech recognition**
