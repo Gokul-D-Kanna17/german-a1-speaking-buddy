@@ -84,3 +84,7 @@ This project is **more than just a study app**. It’s designed to:
 - Requires a microphone and internet connection for full functionality
 - Desktop app (Windows, MacOS, Linux) with minimal setup
 - Contributions and feedback are welcome to make it better for learners worldwide
+- This repository is a *public demo showcase* of my German A1 Speaking Buddy project.  
+- The core application source code is private to protect ongoing development work and intellectual property.  
+- This repository contains the project overview, a working demo video, and a portfolio HTML page for public viewing.
+
